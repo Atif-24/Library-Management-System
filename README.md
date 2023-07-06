@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README file with the requested introduction:
-
 # Library Management System
 
 This Library Management System is a basic project created to learn the fundamentals of C++ and develop a useful program to keep track of the books you have read. It utilizes a CSV file as the data storage format, leveraging the simplicity and convenience of CSV files for simple tasks. While handling CSV files may be easier in languages like Python, they still function well in this C++ project.
