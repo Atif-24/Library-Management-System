@@ -20,9 +20,8 @@ During my learning journey, I had also dabbled in Python and found its for loop 
 
 To run the Library Management System on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/library-management.git`
-2. Compile the program using a C++ compiler.
-3. Run the compiled program.
+1. Compile the program using a C++ compiler.
+2. Run the compiled program.
 
 ## Usage
 
